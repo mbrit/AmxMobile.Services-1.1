@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="AmxMobile.Services.Web.Master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Six Bookmarks Service Test Platform</title>
+    <link href="Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+    <div class="logo">
+        Six Bookmarks Service Test Platform - multimobiledevelopment.com
+    </div>
+    
+    <asp:Panel runat="server" ID="panelNav">
+        <div class="nav">
+            <ul>
+                <li><asp:hyperlink runat="server" ID="linkHome" NavigateUrl="~/" Text="Home"></asp:hyperlink></li>
+                <li><asp:hyperlink runat="server" ID="linkProfile" NavigateUrl="~/viewprofile.aspx" Text="Your Profile"></asp:hyperlink></li>
+                <li><asp:hyperlink runat="server" ID="linkUsers" NavigateUrl="~/viewusers.aspx" Text="Manage Users"></asp:hyperlink></li>
+                <li><asp:hyperlink runat="server" ID="linkLogoff" NavigateUrl="~/logoff.aspx" Text="Logoff"></asp:hyperlink></li>
+            </ul>
+        </div>
+    </asp:Panel><asp:Panel runat="server" ID="panelNoNav">
+        <div class="nav">
+            <ul>
+                <li><asp:hyperlink runat="server" ID="linkNoHome" NavigateUrl="~/" Text="Home"></asp:hyperlink></li>
+            </ul>
+        </div>
+    </asp:Panel></div>
+    
+    <div class="content">
+        <asp:ScriptManager ID="ajaxManager" runat="server" />
+        <asp:UpdateProgress runat="server" ID="ajaxProgress">
+            <ProgressTemplate>
+                <div class="progress">
+                    Working, please wait...
+                    <br />
+                    <asp:Image runat="server" ImageUrl="~/images/load.gif" />
+                </div>
+            </ProgressTemplate>
+        </asp:UpdateProgress>
+        <asp:UpdatePanel runat="server" id="ajaxUpdate">
+            <ContentTemplate>
+                <asp:ContentPlaceHolder ID="placeholderContent" runat="server">
+                
+                </asp:ContentPlaceHolder>
+            </ContentTemplate>
+        </asp:UpdatePanel>
+        
+        <br /><br />
+        <br /><br />
+        <div class="copyright">
+            Copyright &copy; <a href="http://www.amxsoftware.com/">AMX Software Ltd</a> 2010 - All rights reserved - Distributed under the <a href="http://www.mozilla.org/MPL/MPL-1.1.html">Mozilla Public License 1.1</a> - <%=AmxMobile.Services.ServicesRuntime.ProductVersion %>
+        </div>
+        
+    </div>
+    </form>
+</body>
+</html>

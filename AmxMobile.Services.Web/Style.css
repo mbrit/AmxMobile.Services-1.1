@@ -1,0 +1,217 @@
+﻿body
+{
+	font-family:Arial, Helvetica;
+	margin:0px;
+}
+
+a
+{
+	color:Navy;
+}
+
+.key
+{
+	font-family:Courier New;
+	font-size:12pt;
+	font-weight:bold;
+	padding:10px;
+	border:1px solid black;
+	background-color:salmon;
+}
+
+.copyright
+{
+	font-size:8pt;
+}
+
+.problem
+{
+	color:Red;
+}
+
+.info
+{
+	color:Green;
+}
+
+.progress
+{
+	padding:10px;
+	border:1px solid black;
+	background-color:#e0e0e0;
+	position:absolute;
+	left:300px;
+	top:100px;
+	text-align:center;
+}
+
+.logo
+{
+	background-color:#0E992D;
+	padding:5px;
+	color:White;
+	font-size:14pt;
+	font-weight:bold;
+	border-bottom:1px solid black;
+}
+
+.content
+{
+	padding:10px;
+}
+
+.nav
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	background-color:#535353;
+}
+
+.nav ul
+{
+	display:inline;
+}
+
+.nav li
+{
+	display:inline;
+	margin:0;
+}
+
+.nav a
+{
+	text-decoration:none;
+	color:white;
+	background-color:#535353;
+	float:left;
+	width:auto;
+	padding:5px 5px 7px 5px;
+}
+
+.nav a:hover
+{
+	background-color:black;
+}
+
+fieldset
+{
+	border:none;
+	padding:0;
+}
+
+legend
+{
+	border:none;
+	padding:0;
+} 
+
+fieldset 
+{
+	position:relative;
+	float: left;    
+	clear: both;    
+	width: 100%;    
+	margin: 0 0 0.5em 0;
+	padding: 0 0 0 0.5em;    
+	border-style:none;
+	border-top: 1px solid #BFBAB0;    
+}
+
+legend 
+{  
+	padding:0;
+	color: #545351;  
+	font-weight: bold;  
+}  
+
+legend span 
+{
+	position:absolute;
+	left:0.74em;
+	top:0;
+	margin-top:0.3em;
+	font-size: 110%;	
+}
+
+fieldset ol 
+{  
+	padding: 1.5em 1em 0 2em;  
+	list-style: none;  
+}  
+
+fieldset li 
+{  
+	float: left;    
+	clear: left;    
+	width: 100%;    
+	padding-bottom: 0.6em;     
+}  
+
+fieldset label 
+{
+	float: left;    
+	width: 10em;    
+	margin-right: 1em; 
+	text-align:right;
+}
+
+fieldset.submit  
+{
+	float: none;    
+	width: auto;    
+	border-style: none;    
+	padding-left: 12em;    
+	background-color: transparent;    
+	background-image: none;  
+}
+
+.gridheader
+{
+	background-color:Navy;
+}
+
+.gridheader a
+{
+	color:White;
+	text-decoration:none;
+}
+
+.gridheader a:hover
+{
+	text-decoration:underline;
+}
+
+.gridpager
+{
+	background-color:#535353;
+	color:White;
+	font-size:8pt;
+}
+
+.gridpager a
+{
+	color:White;
+	text-decoration:none;
+}
+
+.gridpager a:hover
+{
+	text-decoration:underline;
+}
+
+.gridalternateitem
+{
+	background-color:#f0f0f0;
+}
+
+.griditem:hover
+{
+	background-color:#50EF74;
+}
+
+.gridalternateitem:hover
+{
+	background-color:#50EF74;
+}

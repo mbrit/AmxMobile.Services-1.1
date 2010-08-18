@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Factory="AmxMobile.Services.Web.ServicesHostFactory, AmxMobile.Services.Web" Service="AmxMobile.Services.Web.Bookmarks" %>

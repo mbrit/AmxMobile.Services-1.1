@@ -1,0 +1,13 @@
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\bin\Debug\AmxMobile.Services.dll
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\bin\Debug\AmxMobile.Services.pdb
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\bin\Debug\BootFX.Cms.dll
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\bin\Debug\BootFX.Common.dll
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\bin\Debug\BootFX.Common.UI.Common.dll
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\bin\Debug\BootFX.Common.UI.Web.dll
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\bin\Debug\BootFX.Common.UI.Common.pdb
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\bin\Debug\BootFX.Cms.pdb
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\bin\Debug\BootFX.Common.UI.Web.pdb
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\bin\Debug\BootFX.Common.pdb
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\obj\Debug\ResolveAssemblyReference.cache
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\obj\Debug\AmxMobile.Services.dll
+w:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services\obj\Debug\AmxMobile.Services.pdb

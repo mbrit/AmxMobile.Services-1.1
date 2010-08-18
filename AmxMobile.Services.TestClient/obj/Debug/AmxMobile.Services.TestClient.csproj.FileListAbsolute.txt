@@ -1,0 +1,14 @@
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\obj\Debug\ResolveAssemblyReference.cache
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\obj\Debug\AmxMobile.Services.TestClient.Form1.resources
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\obj\Debug\AmxMobile.Services.TestClient.Properties.Resources.resources
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\obj\Debug\AmxMobile.Services.TestClient.csproj.GenerateResource.Cache
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\bin\Debug\AmxMobile.Services.TestClient.exe
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\bin\Debug\AmxMobile.Services.TestClient.pdb
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\bin\Debug\BootFX.Common.dll
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\bin\Debug\BootFX.Common.UI.Common.dll
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\bin\Debug\BootFX.Common.UI.Desktop.dll
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\bin\Debug\BootFX.Common.UI.Common.pdb
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\bin\Debug\BootFX.Common.UI.Desktop.pdb
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\bin\Debug\BootFX.Common.pdb
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\obj\Debug\AmxMobile.Services.TestClient.exe
+W:\Code\Book\AmxMobile.Services\1.0\AmxMobile.Services\AmxMobile.Services.TestClient\obj\Debug\AmxMobile.Services.TestClient.pdb

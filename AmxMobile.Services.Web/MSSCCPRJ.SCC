@@ -1,0 +1,5 @@
+SCC = This is a source code control file
+
+[AmxMobile.Services.Web.csproj]
+SCC_Aux_Path = http://vault.amxsoftware.com/VaultService|AMX:11
+SCC_Project_Name = $/AmxMobile.Services/1.0/AmxMobile.Services

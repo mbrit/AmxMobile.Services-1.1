@@ -1,0 +1,11 @@
+*.com
+*.class
+*.dll
+*.exe
+*.pdb
+*.scc
+*.vssscc
+*.suo
+*.user
+/bin
+/obj

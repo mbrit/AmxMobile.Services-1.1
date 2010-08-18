@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmxMobile.Services", "AmxMobile.Services\AmxMobile.Services.csproj", "{4CA4B7E4-7018-43AA-8A6B-FD21A46134AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmxMobile.Services.Web", "AmxMobile.Services.Web\AmxMobile.Services.Web.csproj", "{8A1EB73C-4481-4629-B99F-6D4F9C9AAF2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmxMobile.Services.Console", "AmxMobile.Services.Console\AmxMobile.Services.Console.csproj", "{8B2F1055-1F17-4061-9D71-6BBD3FA54082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmxMobile.Services.WebAdmin", "AmxMobile.Services.WebAdmin\AmxMobile.Services.WebAdmin.csproj", "{F6F85C26-A3CE-4C14-A0B4-0CFFB3262926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmxMobile.Services.TestClient", "AmxMobile.Services.TestClient\AmxMobile.Services.TestClient.csproj", "{02366FEB-E63E-4084-940A-37CE35B00CB3}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 6
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = AmxMobile.Services.Web\\AmxMobile.Services.Web.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = AmxMobile.Services.Web\\
+		SccProjectUniqueName2 = AmxMobile.Services\\AmxMobile.Services.csproj
+		SccLocalPath2 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = AmxMobile.Services\\
+		SccProjectUniqueName3 = AmxMobile.Services.Console\\AmxMobile.Services.Console.csproj
+		SccLocalPath3 = AmxMobile.Services.Console
+		CanCheckoutShared = false
+		SccProjectUniqueName4 = AmxMobile.Services.WebAdmin\\AmxMobile.Services.WebAdmin.csproj
+		SccLocalPath4 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection4 = AmxMobile.Services.WebAdmin\\
+		SccProjectUniqueName5 = AmxMobile.Services.TestClient\\AmxMobile.Services.TestClient.csproj
+		SccLocalPath5 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection5 = AmxMobile.Services.TestClient\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA4B7E4-7018-43AA-8A6B-FD21A46134AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA4B7E4-7018-43AA-8A6B-FD21A46134AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA4B7E4-7018-43AA-8A6B-FD21A46134AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA4B7E4-7018-43AA-8A6B-FD21A46134AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1EB73C-4481-4629-B99F-6D4F9C9AAF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1EB73C-4481-4629-B99F-6D4F9C9AAF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1EB73C-4481-4629-B99F-6D4F9C9AAF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1EB73C-4481-4629-B99F-6D4F9C9AAF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2F1055-1F17-4061-9D71-6BBD3FA54082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2F1055-1F17-4061-9D71-6BBD3FA54082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2F1055-1F17-4061-9D71-6BBD3FA54082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2F1055-1F17-4061-9D71-6BBD3FA54082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F85C26-A3CE-4C14-A0B4-0CFFB3262926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F85C26-A3CE-4C14-A0B4-0CFFB3262926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F85C26-A3CE-4C14-A0B4-0CFFB3262926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F85C26-A3CE-4C14-A0B4-0CFFB3262926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02366FEB-E63E-4084-940A-37CE35B00CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02366FEB-E63E-4084-940A-37CE35B00CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02366FEB-E63E-4084-940A-37CE35B00CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02366FEB-E63E-4084-940A-37CE35B00CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
